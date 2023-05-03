@@ -1,5 +1,6 @@
 # paginationRestApI_TabluarFormat
-In order to run the backend server perform node index.js on cmd
+Install required node moudles after cloning the repository peroform "npm i" on cmd
+Run the backend server using: node index.js on cmd
 
 
 http://localhost:3000/data?page=1&pageSize=2&sortField=id&sortDirection=asc
