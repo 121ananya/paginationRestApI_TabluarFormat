@@ -1,5 +1,7 @@
 # paginationRestApI_TabluarFormat
 Install required node moudles after cloning the repository peroform "npm i" on cmd
+
+
 Run the backend server using: node index.js on cmd
 
 
